@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Innova - Innovating Startups</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            color: #333;
+        }
+        header {
+            background: #0073e6;
+            color: white;
+            padding: 1em 0;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background: #005bb5;
+            padding: 0.5em 0;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 1em;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            padding: 2em;
+        }
+        .vertical {
+            margin-bottom: 2em;
+        }
+        footer {
+            background: #f4f4f4;
+            text-align: center;
+            padding: 1em 0;
+            border-top: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Innova</h1>
+        <p>Innovating Startups, Empowering Entrepreneurs</p>
+    </header>
+    <nav>
+        <a href="#projects">Projects</a>
+        <a href="#consultations">Consultations</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section id="projects">
+        <h2>Our Projects</h2>
+        <p>At Innova, we specialize in starting startups. Each startup we create is part of our <strong>Projects</strong> vertical. From platforms that connect fresh graduates with employers to joint ventures with like-minded startups, our projects aim to innovate and solve real-world problems.</p>
+        <h3>Joint Ventures</h3>
+        <p>We actively seek and collaborate with other startups where mutual interests align. By leveraging our expertise and resources, we ensure joint ventures are successful and impactful.</p>
+    </section>
+    <section id="consultations">
+        <h2>Startup Consultations</h2>
+        <p>If you have an idea, we are here to help you bring it to life. Innova provides tailored services to budding entrepreneurs, including:</p>
+        <ul>
+            <li>Business Plans</li>
+            <li>Feasibility Studies</li>
+            <li>Market Entry Strategies</li>
+            <li>Startup Funding Assistance</li>
+        </ul>
+        <p>Our goal is to equip you with everything you need to succeed in your entrepreneurial journey.</p>
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Have questions or want to learn more about what Innova can do for you? Get in touch with us!</p>
+        <p>Email: <a href="mailto:info@innova.com">info@innova.com</a></p>
+    </section>
+    <footer>
+        <p>&copy; 2025 Innova. All rights reserved.</p>
+    </footer>
+</body>
+</html>
